@@ -66,14 +66,11 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: About me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Versatile developer experienced in building and maintaining full-stack web applications, internal tools, and infrastructure.
+    Skilled in React, Node.js, AWS, and WordPress, with a strong focus on performance, automation, and user experience.
+    Proven ability to optimize workflows, manage servers, and deliver reliable technical solutions that improve efficiency and support business growth.
 education:
   title: Education
   info:
