@@ -87,32 +87,22 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Full-stack Developer & Technical Support Specialist
+    time: Oct 2022 - Present
+    company: Startup
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
+      Contribute to both the development and operational sides of the company by building and maintaining internal applications that streamline workflows and integrate with core systems.
+      Manage and deploy virtual servers to ensure stability, performance, and security across the infrastructure. 
+      Lead initiatives to improve internal processes and automation, reducing operational costs and enhancing the experience for both clients and team members.
+      Provide direct technical support to clients, handling both software and hardware issues to ensure continuous, reliable system performance.
+  - role: Courses Technical Support
     time: 2014 - 2015
     company: Google, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+     I was involved in the 'Me, the Programmer' program, an initiative for school students led by SoftUni alumni,
+     providing valuable insights into the journey of becoming a developer.
+     Concurrently, I serve as a Moderator for SoftUni's online courses, where my responsibilities include testing and correcting exams prior to distribution,
+     reviewing and evaluating student assignments, and ensuring the seamless flow of the online courses.
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
