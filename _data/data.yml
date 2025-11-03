@@ -78,9 +78,9 @@ education:
   title: Education
   info:
   - degree: High school diploma
-    university: 51 School "Elisaveta Bagryana"
+    university: 51 School "Elisaveta Bagryana" | Software and Hardware, English and Italian
     time: 2017 - 2022
-    details: Software and Hardware, English and Italian
+    details: 
       
   - degree: Bachelor in Business Informatics
     university: Dimitar A. Tsenov Academy of Economics
