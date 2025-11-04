@@ -132,40 +132,16 @@ certifications:
 
 projects:
   title: Projects
-  intro: "yes"
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Compliance Integration Platform
-    link: ""
-    tagline: |
-        A global leader in veterinary services, delivering animal care in around 2,500 locations across 20 countries.
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-        The project utilizes a mono-repository containing multiple Azure Functions based microservices. Event-driven architecture backed by Azure Cosmos DB.
-
-        **Responsibilities:**
-          - Participating in creating an MVP for an app feature providing video consultations
-          - Creating and maintaining a microservice responsible for queuing up people for a video consultation
-          - Creating and maintaining a microservice responsible for managing video rooms for scheduled appointments (creation, URL generation, token generation)
-          - Working with event-driven architecture, collaborating with other teams to ensure the proper workflow with related events and event handlers
-          - Syncing from and updating an external veterinary management system
-          - Maintaining high test coverage for all new features
-
-        **Technologies:**
-        .NET 6, Azure Functions, Azure Cosmos DB, Azure App Configuration, Terraform, Twilio, NSubstitute
-
-  
-   - title: Internal Tools Hub
-    link: ""
-    tagline: |
-       Developed a centralized web platform to streamline access to multiple internal applications, improving workflow efficiency across teams.
-        **Contributions:**
-
-          - Built a React (TypeScript) front end using Material UI, delivering a clean, modular interface.
-          - Integrated multiple web tools into a single dashboard, including modules for user verification, trade calculation, client communication, transaction analytics, and financial overviews.
-          - Deployed and maintained the platform with Node.js (Express) and Nginx on AWS infrastructure.
-
-        **Technologies:**
-        React, TypeScript, Material UI, AWS, Node.js (Express), Nginx, REST APIs
-
+  - title: DevStudio
+    link: "#"
+    tagline: "A responsive website template designed to help web developers/designers market their services."
 
   - title: Tempo
     link: "#"
