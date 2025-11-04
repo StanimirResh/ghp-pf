@@ -132,29 +132,29 @@ certifications:
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ # intro: >
+ # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Compliance Integration Platform
-    link: ""
+ #   link: ""
     tagline: |
-        Developed a full-stack system to automatically screen cryptocurrency transactions using third-party compliance and risk analysis APIs.
-        Enhanced transaction monitoring and automated compliance workflows for crypto operations.
-        **Contributions:**
+        A global leader in veterinary services, delivering animal care in around 2,500 locations across 20 countries.
 
-          - Created a Java extension to capture real-time transaction data from crypto ATM software.
-          - Built and deployed a Node.js (Express) backend hosted on AWS EC2, managing API communication with external services and data flow.
-          - Implemented an automated notification system using a custom telegram messaging bot for compliance alerts.
-          - Setting up automatic deployment and maintaining the system
+        The project utilizes a mono-repository containing multiple Azure Functions based microservices. Event-driven architecture backed by Azure Cosmos DB.
 
+        **Responsibilities:**
+          - Participating in creating an MVP for an app feature providing video consultations
+          - Creating and maintaining a microservice responsible for queuing up people for a video consultation
+          - Creating and maintaining a microservice responsible for managing video rooms for scheduled appointments (creation, URL generation, token generation)
+          - Working with event-driven architecture, collaborating with other teams to ensure the proper workflow with related events and event handlers
+          - Syncing from and updating an external veterinary management system
+          - Maintaining high test coverage for all new features
 
         **Technologies:**
-        Java, Node.js (Express), AWS, REST APIs, Telegram Bot API, Linux
+        .NET 6, Azure Functions, Azure Cosmos DB, Azure App Configuration, Terraform, Twilio, NSubstitute
 
-    
-
-
-  - title: Internal Tools Hub
+  
+   - title: Internal Tools Hub
     link: ""
     tagline: |
        Developed a centralized web platform to streamline access to multiple internal applications, improving workflow efficiency across teams.
