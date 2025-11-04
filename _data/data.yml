@@ -135,14 +135,13 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "Developed a full-stack system to automatically screen cryptocurrency transactions using third-party compliance and risk analysis APIs.
+  - title: Compliance Integration Platform
+    link: ""
+    tagline: Developed a full-stack system to automatically screen cryptocurrency transactions using third-party compliance and risk analysis APIs.
     - Created a Java extension to capture real-time transaction data from crypto ATM software.
     - Built and deployed a Node.js (Express) backend hosted on AWS EC2, managing API communication and data flow.
     - Implemented an automated notification system using a telegram messaging bot for compliance alerts.
     Technologies: Java, Node.js (Express), AWS EC2, REST APIs, Messaging Bot API
-    "
     
 
 
@@ -180,16 +179,19 @@ oss:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: Projects
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
+  - title: Compliance Integration Platform
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Developed a full-stack system to automatically screen cryptocurrency transactions using third-party compliance and risk analysis APIs.
+    conference: - Created a Java extension to capture real-time transaction data from crypto ATM software.
+    - Built and deployed a Node.js (Express) backend hosted on AWS EC2, managing API communication and data flow.
+    - Implemented an automated notification system using a telegram messaging bot for compliance alerts.
+    Technologies: Java, Node.js (Express), AWS EC2, REST APIs, Messaging Bot API
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
