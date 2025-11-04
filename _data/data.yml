@@ -137,11 +137,11 @@ projects:
   assignments:
   - title: Compliance Integration Platform
     link: ""
-    tagline: | Developed a full-stack system to automatically screen cryptocurrency transactions using third-party compliance and risk analysis APIs.
+    tagline: "Developed a full-stack system to automatically screen cryptocurrency transactions using third-party compliance and risk analysis APIs.
     - Created a Java extension to capture real-time transaction data from crypto ATM software.
     - Built and deployed a Node.js (Express) backend hosted on AWS EC2, managing API communication and data flow.
     - Implemented an automated notification system using a telegram messaging bot for compliance alerts.
-    Technologies: Java, Node.js (Express), AWS EC2, REST APIs, Messaging Bot API
+    Technologies: Java, Node.js (Express), AWS EC2, REST APIs, Messaging Bot API"
     
 
 
