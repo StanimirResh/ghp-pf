@@ -135,7 +135,7 @@ projects:
   intro: "yes"
   assignments:
   - title: Compliance Integration Platform
- #   link: ""
+    link: ""
     tagline: |
         A global leader in veterinary services, delivering animal care in around 2,500 locations across 20 countries.
 
