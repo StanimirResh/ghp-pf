@@ -132,11 +132,11 @@ certifications:
 
 projects:
   title: Projects
- # intro: >
- # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  intro: > 
+  You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Compliance Integration Platform
- #   link: ""
+    link: ""
     tagline: |
         A global leader in veterinary services, delivering animal care in around 2,500 locations across 20 countries.
 
