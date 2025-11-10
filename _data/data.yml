@@ -146,13 +146,25 @@ projects:
           - Built and deployed a Node.js (Express) backend hosted on AWS EC2, managing API communication with external services and data flow.
           - Implemented an automated notification system using a custom telegram messaging bot for compliance alerts.
           - Maintaining the system and implementing an automatic deployment
+          - Made key architecture and deployment decisions for the application, ensuring scalability and maintainability.
+          - Onboarded and guided other developers, explaining system design and delegating tasks for new feature development.
 
         **Technologies:**
         Java, Node.js (Express), AWS, REST APIs, Telegram Bot API, Linux
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Internal Tools Hub
+    link: ""
+    tagline: |
+        Developed a centralized web platform to streamline access to multiple internal applications, improving workflow efficiency across teams.
+
+        **Contributions:**
+          - Built a React (TypeScript) front end using Material UI, delivering a clean, modular interface.
+          - Integrated multiple web tools into a single dashboard, including modules for user verification, trade calculation, client communication, transaction analytics, and financial overviews.
+          - Deployed and maintained the platform backend with Node.js (Express) and Nginx on AWS infrastructure.
+          - Onboarded and guided new developers contributing to the Hub, assigning tasks and ensuring consistent development standards.
+
+        **Technologies:**
+        React, Typescript, Material UI, AWS, Node.js (Express), Nginx, REST APIs
 
   - title: Tempo
     link: "#"
