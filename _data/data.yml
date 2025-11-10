@@ -135,7 +135,7 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Compliance Integration Platform
+  - title: Compliance Integration Platform "2024 - Pres"
     link: ""
     tagline: |
         Developed a full-stack system to automatically screen cryptocurrency transactions using third-party compliance and risk analysis APIs.
@@ -152,7 +152,7 @@ projects:
         **Technologies:**
         Java, Node.js (Express), AWS, REST APIs, Telegram Bot API, Linux
 
-  - title: Internal Tools Hub
+  - title: Internal Tools Hub "(2023 - Pres)"
     link: ""
     tagline: |
         Developed a centralized web platform to streamline access to multiple internal applications, improving workflow efficiency across teams.
@@ -166,7 +166,7 @@ projects:
         **Technologies:**
         React, Typescript, Material UI, AWS, Node.js (Express), Nginx, REST APIs
 
-  - title: Crypto ATM UI Demo
+  - title: Crypto ATM UI Demo "2024"
     link: ""
     tagline: |
         Created a full-stack web application simulating the user interface and navigation flow of a General Bytes cryptocurrency ATM.
@@ -180,13 +180,18 @@ projects:
         **Technologies:**
         React (JavaScript), Node.js (Express), MongoDB, REST APIs
 
-  - title: Web Development Projects
+  - title: Web Development Projects "2022 - 2024"
     link: ""
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: |
+        Created a full-stack web application simulating the user interface and navigation flow of a General Bytes cryptocurrency ATM.
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        **Contributions:**
+          - Built WordPress websites with custom plugins integrating third-party APIs for real-time crypto data display.
+          - Developed a React (TypeScript) site using Material UI, implementing reusable components and a modern layout for scalability.
+          - Collaborated on deployment, branding, and performance improvements.
+
+        **Technologies:**
+         React, TypeScript, Material UI, WordPress, PHP, REST APIs
 
 oss:
   title: OSS Contributions
