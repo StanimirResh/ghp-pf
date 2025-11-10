@@ -166,12 +166,22 @@ projects:
         **Technologies:**
         React, Typescript, Material UI, AWS, Node.js (Express), Nginx, REST APIs
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Crypto ATM UI Demo
+    link: ""
+    tagline: |
+        Created a full-stack web application simulating the user interface and navigation flow of a General Bytes cryptocurrency ATM.
 
-  - title: Atom
-    link: "#"
+        **Contributions:**
+          - Built the front end with React (JavaScript) to replicate realistic ATM menu screens and navigation.
+          - Implemented a Node.js (Express) backend with MongoDB to manage mock data and real-time cryptocurrency pricing.
+          - Designed the application as a non-transactional demo for UI/UX testing and client presentations.
+          - Onboarded and guided new developers contributing to the Hub, assigning tasks and ensuring consistent development standards.
+
+        **Technologies:**
+        React (JavaScript), Node.js (Express), MongoDB, REST APIs
+
+  - title: Web Development Projects
+    link: ""
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
   - title: Delta
